@@ -86,3 +86,5 @@ def inserir_produtos():
     print(tela)
 
 main()
+# inicio: 24/05/2025 hora: 12:00
+# fim: 24/05/2025    hora: 13:20
