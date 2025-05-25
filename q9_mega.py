@@ -34,3 +34,5 @@ def main():
         
 
 main()
+# inicio: 24/05/2025 hora: 18:00
+# fim: 24/05/2025    hora: 19:00
