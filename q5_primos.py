@@ -27,3 +27,6 @@ def eh_primo(i):
     return True
 
 main()
+
+# inicio: 24/05/2025 hora: 11:20
+# fim: 24/05/2025    hora: 12:00
